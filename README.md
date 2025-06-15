@@ -8,27 +8,25 @@ A modern, beautiful, and responsive **React Admin Dashboard** built with **Vite*
 
 ## 🚀 Features
 
-- 
-- 🌙 Dark / Light theme toggle
-- 📊 **Custom Chart component** using Chart.js
-- 🗓️ **Manually built Calendar** using `date-fns`
-- 📌 **Kanban board** with drag-and-drop using `react-beautiful-dnd`
-- 🧩 Fully responsive layout
-- ⚙️ Sidebar + Topbar navigation
-- ⚡ Built with Vite for instant load & HMR
-- 🎯 Resume-worthy code and UI polish
+- 🌙 Dark / Light theme toggle  
+- 📊 **Custom Chart component** using Chart.js  
+- 🗓️ **Manually built Calendar** using `date-fns`  
+- 📌 **Kanban board** with drag-and-drop using `react-beautiful-dnd`  
+- 🧩 Fully responsive layout  
+- ⚙️ Sidebar + Topbar navigation  
+- ⚡ Built with Vite for instant load & HMR  
+- 🎯 Resume-worthy code and UI polish  
 - ✅ Ready for deployment on Netlify/Vercel  
 
 ---
 
 ## 📸 Preview
 
-
-![Alt text](images/dashboard-preview1.png)
-
-![Alt text](images/dashboard-preview2.png)
-
-![Alt text](images/dashboard-preview3.png)
+<img src="images/dashboard-preview1.png" alt="Dashboard Preview 1" width="700"/>
+<br/>
+<img src="images/dashboard-preview2.png" alt="Dashboard Preview 2" width="700"/>
+<br/>
+<img src="images/dashboard-preview3.png" alt="Dashboard Preview 3" width="700"/>
 
 ---
 
@@ -39,7 +37,7 @@ A modern, beautiful, and responsive **React Admin Dashboard** built with **Vite*
 | Framework   | React + Vite                 |
 | Styling     | Tailwind CSS                 |
 | Charts      | Chart.js + `react-chartjs-2` |
-| Calendar    | `react-big-calendar`         |
+| Calendar    | `date-fns` (manual build)    |
 | DnD Board   | `react-beautiful-dnd`        |
 | Icons       | `lucide-react`               |
 | State Mgmt  | Context API                  |
