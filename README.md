@@ -69,7 +69,6 @@ npm run build
 
 Deploy the dist/ folder to Netlify, Vercel, or any static hosting platform.
 
-
 ---
 
 ## 🌐 Deployment
