@@ -72,8 +72,7 @@ Deploy the dist/ folder to Netlify, Vercel, or any static hosting platform.
 
 ---
 
-
-🌐 Deployment
+## 🌐 Deployment
 You can deploy this dashboard on platforms like:
 
 Vercel
@@ -86,9 +85,12 @@ Just connect your GitHub repo and set the build command to npm run build and out
 
 ---
 
-✍️ Author
-Dhanashri Patil
-LinkedIn
-GitHub
-📧 patil.dhanashrik@gmail.com
+## 📬 Contact
 
+For any questions or feedback:
+
+- **📧 Email**: [patil.dhanashrik@gmail.com](mailto:patil.dhanashrik@gmail.com)  
+- **🐙 GitHub**: [DhanashriPatil11](https://github.com/DhanashriPatil11)  
+- **🔗 LinkedIn**: [Dhanashri Patil](https://www.linkedin.com/in/dhanashri-patil24/)
+
+---
