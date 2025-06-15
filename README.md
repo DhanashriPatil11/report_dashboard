@@ -51,21 +51,26 @@ A modern, beautiful, and responsive **React Admin Dashboard** built with **Vite*
 ```bash
 git clone https://github.com/your-username/report_dashboard.git
 cd report_dashboard
+```
 
 ### 2. Install Dependencies
 
+```bash
 npm install
-
+```
 
 ### 3. Start the development server
 
+```bash
 npm run dev
 Open http://localhost:5173 in your browser.
-
+```
 
 ### 4. Build for Production
 
+```bash
 npm run build
+```
 
 Deploy the dist/ folder to Netlify, Vercel, or any static hosting platform.
 
