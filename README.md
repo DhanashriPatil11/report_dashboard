@@ -63,6 +63,9 @@ npm install
 
 ```bash
 npm run dev
+```
+
+```bash
 Open http://localhost:5173 in your browser.
 ```
 
@@ -72,18 +75,18 @@ Open http://localhost:5173 in your browser.
 npm run build
 ```
 
-Deploy the dist/ folder to Netlify, Vercel, or any static hosting platform.
+Deploy the **dist/ folder** to Netlify, Vercel, or any static hosting platform.
 
 ---
 
 ## 🌐 Deployment
 You can deploy this dashboard on platforms like:
 
-Vercel
+**Vercel**
 
-Netlify
+**Netlify**
 
-Render
+**Render**
 
 Just connect your GitHub repo and set the build command to npm run build and output folder to dist.
 
