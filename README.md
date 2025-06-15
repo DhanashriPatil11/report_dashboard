@@ -26,9 +26,9 @@ A modern, beautiful, and responsive **React Admin Dashboard** built with **Vite*
 
 ![Alt text](images/dashboard-preview1.png)
 
-![Dashboard Preview](./public/images/dashboard-preview2.png)
+![Alt text](images/dashboard-preview2.png)
 
-![Dashboard Preview](./public/images/dashboard-preview3.png)
+![Alt text](images/dashboard-preview3.png)
 
 ---
 
