@@ -91,7 +91,7 @@ Just connect your GitHub repo and set the build command to npm run build and out
 
 ## 🚀 Performance Highlights (Lighthouse Audit)
 
-The deployed dashboard on [Vercel](https://your-project.vercel.app) was analyzed using Chrome Lighthouse.
+The deployed dashboard on [Vercel](https://report-dashboard-smoky.vercel.app/) was analyzed using Chrome Lighthouse.
 
 | Metric                    | Score         |
 |---------------------------|---------------|
